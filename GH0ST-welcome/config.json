@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["1"],
+        "ACTIVITY_TEXT": "Developed By FIRAT#9999",
+        "GUILD_ID": "822539719895154738",
+        "VOICE_CHANNEL": "822539719895154743",
+        "MIN_STAFF_ROLE": "823159109725192212"
+    },
+    "FILES": {
+        "WELCOME": "sesler/Hosgeldin.mp3",
+        "STAFF": "sesler/Yetkili.mp3"
+    },
+    "TOKEN": "ODIzMTU4MzQzNTQzMDI5ODEw.YFcv8g.-Cf6Gi-CYNhM8863StqRxBIoOLs"
+}
